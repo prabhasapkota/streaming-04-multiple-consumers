@@ -1,7 +1,7 @@
 # Module 4: streaming-04-multiple-consumers
-Author: Prabha Sapkota
-GitHub Repo: https://github.com/prabhasapkota/streaming-04-multiple-consumers
-Date: 05/23/2024
+* Author: Prabha Sapkota
+* GitHub Repo: https://github.com/prabhasapkota/streaming-04-multiple-consumers
+* Date: 05/23/2024
 
 > Use RabbitMQ to distribute tasks to multiple workers
 
