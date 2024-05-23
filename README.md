@@ -1,4 +1,7 @@
-# streaming-04-multiple-consumers
+# Module 4: streaming-04-multiple-consumers
+Author: Prabha Sapkota
+GitHub Repo: https://github.com/prabhasapkota/streaming-04-multiple-consumers
+Date: 05/23/2024
 
 > Use RabbitMQ to distribute tasks to multiple workers
 
@@ -7,7 +10,7 @@ One process will create task messages. Multiple worker processes will share the 
 
 ## Before You Begin
 
-1. Fork this starter repo into your GitHub.
+1. Fork this starter repo into your GitHub: https://github.com/denisecase/streaming-04-multiple-consumers
 1. Clone your repo down to your machine.
 1. View / Command Palette - then Python: Select Interpreter
 1. Select your conda environment. 
